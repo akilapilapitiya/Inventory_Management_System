@@ -1,1 +1,3 @@
-##Inventory Mamagement System Using Java Swing
+# Inventory Managment System
+
+This is an Inventory Managment System developed using Java with Swing Library
